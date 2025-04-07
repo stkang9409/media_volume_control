@@ -8,7 +8,7 @@ A Flutter plugin to force Android/iOS volume buttons to control **media volume o
 dependencies:
   media_volume_control:
     git:
-      url: https://github.com/your-username/media_volume_control
+      url: https://github.com/stkang9409/media_volume_control
 ```
 
 ## 📦 Usage
