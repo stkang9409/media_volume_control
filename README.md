@@ -17,8 +17,9 @@ dependencies:
 import 'package:media_volume_control/media_volume_control.dart';
 
 void main() {
-  runApp(MyApp());
+  WidgetsFlutterBinding.ensureInitialized();
   MediaVolumeControl.setMediaVolumeControl();
+  runApp(MyApp());
 }
 ```
 
