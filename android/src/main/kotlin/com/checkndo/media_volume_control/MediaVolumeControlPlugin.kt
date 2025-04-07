@@ -1,4 +1,4 @@
-package com.example.media_volume_control
+package com.checkndo.media_volume_control
 
 import android.app.Activity
 import android.media.AudioManager
