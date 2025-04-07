@@ -1,6 +1,6 @@
 name: media_volume_control
 description: A Flutter plugin to force media volume control.
-version: 0.0.3
+version: 0.0.4
 flutter:
   plugin:
     platforms:
