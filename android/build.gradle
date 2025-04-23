@@ -15,6 +15,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace 'com.checkndo.media_volume_control'
     compileSdkVersion 33
 
     defaultConfig {
